@@ -1,0 +1,8 @@
+2025-12-02 12:15:37 - QRL - INFO - --- STARTING DEMO ---
+2025-12-02 12:15:38 - QRL - WARNING - No chain found. Creating Genesis Block.
+2025-12-02 12:15:38 - QRL - INFO - Genesis Block Created.
+2025-12-02 12:15:38 - QRL - INFO - Mining Block 1...
+2025-12-02 12:15:38 - QRL - INFO - Miner Balance (Genesis): 0
+2025-12-02 12:15:38 - QRL - ERROR - Insufficient funds: 0 < 50.0
+2025-12-02 12:15:38 - QRL - INFO - Alice Balance: 0
+2025-12-02 12:15:38 - QRL - INFO - --- DEMO COMPLETE ---
